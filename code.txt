@@ -1,2 +1,3 @@
+//Command to record voice from linux terminal using sox
 sox -d -b 16 -c 1 -r 16k sample.wav
 

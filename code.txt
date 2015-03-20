@@ -1,0 +1,2 @@
+sox -d -b 16 -c 1 -r 16k sample.wav
+

@@ -1,7 +1,7 @@
 var response="hello";
 var wit = require('node-wit');
 var fs = require('fs');
-var ACCESS_TOKEN = "A5SGT7CVZS73PE5LHRW4UF4T3XGREDGQ";
+var ACCESS_TOKEN = ACCESS_TOKEN;
 var serialport= require('serialport')
 var SerialPort =serialport.SerialPort
 var serialPort = new SerialPort("/dev/ttyACM0",{

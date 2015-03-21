@@ -1,7 +1,7 @@
 
 var wit = require('node-wit');
   var fs = require('fs');
-  var ACCESS_TOKEN = "A5SGT7CVZS73PE5LHRW4UF4T3XGREDGQ";
+  var ACCESS_TOKEN =ACCESS_TOKEN;
 
   console.log("Sending  audio to Wit.AI");
 

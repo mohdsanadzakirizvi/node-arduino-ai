@@ -36,7 +36,7 @@ serialPort.write(response+"\n",function(err,resp){
 console.log("asdc");
 
 });
-      console.log(response);2
+      console.log(response);
       
   });
 
